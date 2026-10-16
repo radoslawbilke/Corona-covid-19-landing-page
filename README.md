@@ -17,7 +17,7 @@ I've installed Tailwind CSS via NPM and I've also used Tailwind Elements libray 
 
 ### Links
 
-- Live Site URL: [HERE](https://radoslawlagan.github.io/Corona-covid-19-landing-page/)
+- Live Site URL: [HERE](https://radoslawbilke.github.io/Corona-covid-19-landing-page/)
 
 ## My process
 
